@@ -1,0 +1,26 @@
+title: Philip J. Ball
+description: DPhil/PhD Student @ University of Oxford
+markdown: kramdown
+permalink: /posts/:year/:month/:day/:title
+theme: jekyll-theme-cayman
+
+# Icons in the footer for contacting
+social-network-links:
+  # email: "joe@bloggs.com"
+#  facebook: 
+  github: philipjball
+  google-scholar: 5Cm8L90AAAAJ
+#  twitter: daattali
+#  reddit: yourname
+#  google-plus: +DeanAttali
+  linkedin: philipjohnball
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+  youtube: PhilPlaysBass
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
