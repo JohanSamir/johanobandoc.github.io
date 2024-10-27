@@ -1,5 +1,5 @@
-title: Philip J. Ball
-description: DPhil/PhD Student @ University of Oxford
+title: Johan Obando-Ceron
+description: DPhil/PhD Student @ Mila, Québec AI Institute and the University of Montreal.
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
 theme: jekyll-theme-cayman
@@ -8,17 +8,17 @@ theme: jekyll-theme-cayman
 social-network-links:
   # email: "joe@bloggs.com"
 #  facebook: 
-  github: philipjball
-  google-scholar: 5Cm8L90AAAAJ
-#  twitter: daattali
+  github: johanobandoc
+  google-scholar: KViAb3EAAAAJ
+  twitter: johanobandoc
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: philipjohnball
+  linkedin: johan-obando
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-  youtube: PhilPlaysBass
+  instagram: johanobandoc
+  youtube: johanobandoc
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
